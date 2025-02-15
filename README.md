@@ -30,7 +30,7 @@ Data products available for download at the National Ecological Observatory Netw
   - SampDate_start_and_end_day.xlsx  
   - site_date.xlsx 
   - site_domain.xlsx  
-  -eddy_levels.xlsx\
+  - eddy_levels.xlsx  
 
 
 

@@ -1,7 +1,7 @@
 
 # NEON-ET-Partitioning-2025
 Isotoped-based ET partitioning for 13 NEON sites  
-Last changed: 02-14-2025
+Last Updated: 02-14-2025
 
 ## DATA DOWNLOAD
 Data products available for download at the National Ecological Observatory Network (NEON) [Data Portal](https://data.neonscience.org) and the WaterIsotope [Database](https://wateriso.utah.edu/waterisotopes/pages/spatial_db/SPATIAL_DB.html). 

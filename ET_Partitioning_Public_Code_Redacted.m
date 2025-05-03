@@ -1,7 +1,7 @@
 %% ET Partitioning Code 
 %  Code for isotope-based ET partitioning analysis at 13 NEON sites. 
 %  Manuscript Title: Evapotranspiration Partitioning Across US Ecoregions: a Multi-Site Study Using Field Stable-Isotope Observations
-%  Date last updated: 02/14/2025
+%  Date last updated: 05/03/2025
 
 %% Gathering Data 
 %Path to directory where the code is stored

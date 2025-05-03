@@ -4,7 +4,9 @@
 %  Date last updated: 02/14/2025
 
 % Gathering Data 
-code_path = 'C:\PhD-UNR\Manuscripts\Katarena Matos\PhD Dissertation\Chapter 1\Submission to GRL\Public Code';
+%Path to directory where the code is stored
+%Example: 'C:\...\Code';
+code_path = '';
 cd (code_path)
 
 %Load NEON sites Metadata Including ID, Sample Date, and NEON Domains 
@@ -19,7 +21,10 @@ site_domain = readmatrix("site_domain.xlsx");
 % Data Product used below: NEON H2O Calibrated 
     % Set path to location of this data product on the local computer
 
-data_path = 'C:\Users\katar\Documents\NEON-Local\NEON H2O Calibrated';
+%Path to directory where data products are is stored
+%Example: 'C:\...\Data';
+data_path = '';
+
 cd (data_path)
 
 %NEON file naming convention
